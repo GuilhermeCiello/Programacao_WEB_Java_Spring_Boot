@@ -21,7 +21,7 @@ json:
 ```
 
 ## GET
-localhost:8080
+localhost:8080/tarefa
 
 ## GET BY ID
 localhost:8080/tarefa/1
