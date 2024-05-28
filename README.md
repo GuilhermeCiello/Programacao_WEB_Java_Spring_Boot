@@ -5,11 +5,11 @@
 O exercício consiste no desenvolvimento de uma API Rest para gerenciamento de tarefas, utilizando Java com Spring Boot.
 As ferramentas utilizadas foram as mesmas ensinadas em aula pelo professor: IntelliJ, H2 Database e Postman.
 
-Para rodar a aplicação basta fazer download ou clonar o reponsitório, abrir com o IntelliJ, executar a aplicação e acessar pelo navegador "http://localhost:8080/h2-console"
+Para rodar a aplicação basta fazer download ou clonar o repositório, abrir com o IntelliJ, executar a aplicação e acessar pelo navegador "http://localhost:8080/h2-console"
 
 Métodos: testados usando o Postman.
 
-POST
+## POST
 localhost:8080/tarefa
 json: 
 ```
@@ -21,13 +21,13 @@ json:
 }
 ```
 
-GET
+## GET
 localhost:8080
 
-GET BY ID
+## GET BY ID
 localhost:8080/tarefa/1
 
-PUT
+## PUT
 localhost:8080/tarefa/1
 json: 
 ```
@@ -38,8 +38,8 @@ json:
   "finalizada": true
 }
 ```
-PUT Finalize
+## PUT Finalize
 localhost:8080/tarefa/1/finalize
 
-DELETE
+## DELETE
 localhost:8080/tarefa/1
