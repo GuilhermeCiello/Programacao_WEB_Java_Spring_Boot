@@ -3,11 +3,9 @@
 ## Integrantes: Guilherme Ciello (101366@aluno.uricer.edu.br), Luiz Mocelin(101623@aluno.uricer.edu.br), Nathan Gowacki(101741@aluno.uricer.edu.br)
 
 O exercício consiste no desenvolvimento de uma API Rest para gerenciamento de tarefas, utilizando Java com Spring Boot.
-As ferramentas utilizadas foram as mesmas ensinadas em aula pelo professor: IntelliJ, H2 Database e Postman.
+As ferramentas utilizadas foram as mesmas ensinadas em aula pelo professor: IntelliJ, H2 Database e Postman para testar os métodos.
 
 Para rodar a aplicação basta fazer download ou clonar o repositório, abrir com o IntelliJ, executar a aplicação e acessar pelo navegador "http://localhost:8080/h2-console"
-
-Métodos: testados usando o Postman.
 
 ## POST
 localhost:8080/tarefa
