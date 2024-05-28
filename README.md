@@ -11,8 +11,8 @@ Métodos: testados usando o Postman.
 
 ## POST
 localhost:8080/tarefa
-json: 
 ```
+json: 
 {
   "descricao": "Ler Livro",
   "dataCriacao": "2024-05-26T10:18:02",
@@ -29,8 +29,8 @@ localhost:8080/tarefa/1
 
 ## PUT
 localhost:8080/tarefa/1
-json: 
 ```
+json: 
 {
   "descricao": "Estudar Spring Boot",
   "dataCriacao": "2024-05-26T10:15:30",
