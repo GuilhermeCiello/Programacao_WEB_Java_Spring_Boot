@@ -1,6 +1,6 @@
 # Programacao_WEB_Java_Spring_Boot
 
-##Integrantes: Guilherme Ciello (101366@aluno.uricer.edu.br), Luiz Mocelin(), Nathan Gowacki 
+## Integrantes: Guilherme Ciello (101366@aluno.uricer.edu.br), Luiz Mocelin(), Nathan Gowacki 
 
 O exercício consiste no desenvolvimento de uma API Rest para gerenciamento de tarefas, utilizando Java com Spring Boot.
 As ferramentas utilizadas foram as mesmas ensinadas em aula pelo professor: IntelliJ, H2 Database e Postman.
