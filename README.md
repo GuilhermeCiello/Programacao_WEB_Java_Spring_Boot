@@ -8,6 +8,8 @@ As ferramentas utilizadas foram as mesmas ensinadas em aula pelo professor: Inte
 Para rodar a aplicação é necessário fazer download ou clonar o repositório, abrir com o IntelliJ, executar a aplicação através da classe principal e acessar pelo navegador "http://localhost:8080/h2-console" para ter acesso ao banco de Dados.
 No Postman, foi colocado a URL do método e o arquivo Json quando necessário.
 
+O arquivo swagger está como "openapi.yaml".
+
 ## POST
 localhost:8080/tarefa
 ```
